@@ -660,7 +660,10 @@ Suggestions are welcome in the [issues](https://github.com/itsmrroot/Network-Man
 
 **Powered by Bashar Salmo**
 
-MAC vendor names from the
+Free for personal and other non-commercial use under the
+[PolyForm Noncommercial License 1.0.0](LICENSE); selling it, or using it in a commercial product, needs written
+permission from Bashar Salmo. Versions up to 0.9.17 were released under the MIT License, and stay under it for those
+who received them. MAC vendor names from the
 [IEEE Registration Authority](https://standards.ieee.org/products-programs/regauth/). The desktop app bundles
 [Noto Sans Arabic](https://github.com/notofonts/arabic) and [Noto Sans SC](https://github.com/notofonts/noto-cjk)
 under the SIL Open Font License ([Arabic](licenses/OFL-NotoSansArabic.txt), [SC](licenses/OFL-NotoSansSC.txt)).
